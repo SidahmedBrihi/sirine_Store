@@ -1,0 +1,20 @@
+[{
+    "name" : "landing-1" ,
+    "type" : "hijab" ,
+    "prix" : "200$"
+},
+{
+    "name" : "landing-2" ,
+    "type" : "khimar" ,
+    "prix" : "80$"
+},
+{
+    "name" : "landing-3" ,
+    "type" : "jeans" ,
+    "prix" : "130$"
+},
+{
+    "name" : "landing-4" ,
+    "type" : "veste" ,
+    "prix" : "140$"
+}]
